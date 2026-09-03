@@ -122,7 +122,7 @@ const Hero = () => {
             <motion.div variants={heroItem} className="flex flex-wrap gap-3 pt-2">
               <motion.a
                 href={personalInfo.resumeUrl}
-                download="Aaditya_Lanjekar_Resume.pdf"
+                download="Aaditya_Lanjekar_SoftwareDeveloper.pdf"
                 className="btn-primary"
                 whileHover={{ scale: 1.03, y: -2 }}
                 whileTap={{ scale: 0.97 }}
