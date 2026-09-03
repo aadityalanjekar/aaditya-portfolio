@@ -16,7 +16,7 @@ export const personalInfo = {
   github: "https://github.com/aadityalanjekar",
   linkedin: "https://linkedin.com/in/aadityalanjekar",
   hackerrank: "https://www.hackerrank.com/aadityalanjekar",
-  resumeUrl: "/Aaditya_Lanjekar_Resume.pdf",
+  resumeUrl: "/Aaditya_Lanjekar_SoftwareDeveloper.pdf",
   availableFor: "Full-time software engineering roles",
 };
 
