@@ -1,0 +1,8 @@
+Place your resume PDF here and name it exactly:
+
+  Aaditya_Lanjekar_Resume.pdf
+
+This matches the path referenced in src/data/portfolio.js (personalInfo.resumeUrl),
+which powers the "Download Resume" button in the Hero section.
+
+Delete this file once your real resume PDF is in place.
